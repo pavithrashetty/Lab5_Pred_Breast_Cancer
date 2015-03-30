@@ -48,13 +48,13 @@ Our model is tested against “test data set” for accuracy and it is 96% succe
 Following bar charts (fig 2, fig 3) indicate the importance of the variables in descending order. 
 
 <figure>
-  <img src="img_pulpit.jpg" alt="The Pulpit Rock" width="304" height="228">
+  <img src="https://cloud.githubusercontent.com/assets/10646127/6906848/e9b4fe04-d6f6-11e4-8b95-312082d7cb85.png" alt="The Pulpit Rock" width="304" height="228">
   <figcaption>Fig 2. Simple bar chart that shows all of the variables.</figcaption>
 </figure>
 
 
 <figure>
-  <img src="img_pulpit.jpg" alt="The Pulpit Rock" width="304" height="228">
+  <img src="https://cloud.githubusercontent.com/assets/10646127/6906854/f100740e-d6f6-11e4-8d9f-9a3d5acec1b0.png" alt="The Pulpit Rock" width="304" height="228">
   <figcaption>Fig 3.  Bar chart that shows the summary of all the variables.</figcaption>
 </figure>
 
