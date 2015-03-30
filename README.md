@@ -22,9 +22,10 @@ Our model is tested against “test data set” for accuracy and it is 96% succe
 <p>Following ROC curve (fig. 1) is created by plotting the ‘true positive rate’ against the ‘false positive rate’ of the model. It is a graphical plot that illustrates the performance of the model. Graph suggests that “true positive rate” is much higher than the “false positive rate”. So, model accuracy is 0.96 (i.e. 96%).</p>
 
 <figure>
-  <img src="C:\Users\Pavithra\Pictures\ROC_curve.png" alt="ROC curve" width="304" height="228">
+  <img src="https://cloud.githubusercontent.com/assets/10646127/6906783/8bfabf1a-d6f6-11e4-8c65-8075b25614cd.png" alt="ROC curve" width="304" height="228">
   <figcaption>Fig 1. ROC curve</figcaption>
 </figure>
+
 
 <p>Positive predictive values (PPV also called Precision) and negative predictive values (NPV) describe the performance of a diagnostic test:</p>
 <ul>
@@ -46,10 +47,16 @@ Our model is tested against “test data set” for accuracy and it is 96% succe
 ####Variables that are the most important in predicting breast cancer:
 Following bar charts (fig 2, fig 3) indicate the importance of the variables in descending order. 
 
-Fig 2. Simple bar chart that shows all of the variables.
+<figure>
+  <img src="img_pulpit.jpg" alt="The Pulpit Rock" width="304" height="228">
+  <figcaption>Fig 2. Simple bar chart that shows all of the variables.</figcaption>
+</figure>
 
-Fig 3.  Bar chart that shows the summary of all the variables.
 
+<figure>
+  <img src="img_pulpit.jpg" alt="The Pulpit Rock" width="304" height="228">
+  <figcaption>Fig 3.  Bar chart that shows the summary of all the variables.</figcaption>
+</figure>
 
 
 * Bare nuclei, normal nucleoli and bland chromatin are signs of benignity. So, they have more importance in determining if a tumor is malignant or benign.
